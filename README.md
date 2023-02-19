@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawand121&label=Profile%20views&color=0e75b6&style=flat" alt="rawand121" /> </p>
 
-- 🔭 I’m currently working on **Many Projects at Smarthand Company**
+- 🔭 I’m currently working at **Redang company**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **React JS, Node JS, MongoDB**
+- 💬 Ask me about **React JS, Node JS, MongoDB and Next JS**
 
 - 📫 How to reach me **Rawandrebwar2010@gmail.com**
 
