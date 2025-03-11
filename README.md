@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawand121&label=Profile%20views&color=0e75b6&style=flat" alt="rawand121" /> </p>
 
 ### 🚀 About Me  
-- 💼 IT Manager & Software Engineer at **Civil Development Organization (CDO)**  
+- 💼 IT Manager & Full Stack Developer at **Civil Development Organization (CDO)**  
 - 🏗️ Building scalable **full-stack applications & DevOps solutions**  
 - 💬 Ask me about **Node.js, Next.js, TypeScript, Redis, and backend performance optimization**
 - 📊 Creating **high-performance** applications with **Next.js & Node.js**  
